@@ -7,3 +7,5 @@ Language : Python (v2.7)
 Module python : PIL, numpy, opencv, naoqi, math, sys, time
 
 (Le projet n'est pas terminé)
+edit le projet est terminé mais j'ai la flemme d'up le code mais en attendant vous pouvez voir le projet en fonctionnement ici :
+https://www.youtube.com/watch?v=dGIrDii4F00
